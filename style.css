@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+nav{
+    height: 50px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    }
+
+nav a{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration-line: none;
+    font-variant: small-caps; 
+
+    }
+
+nav a:first-child{
+    font-size: 22pt;
+    font-weight: 900;
+
+}
